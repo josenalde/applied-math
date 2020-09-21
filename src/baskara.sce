@@ -1,4 +1,4 @@
-// meu primeiro programa - comecei a construir o prédio
+// a first script in scilab - roots 2nd function
 
 a = input('a:');
 b = input('b:');
